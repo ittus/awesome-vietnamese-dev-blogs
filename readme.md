@@ -23,6 +23,7 @@
 - [Dong Nguyen](https://ndaidong.xyz/) - Dong Nguyen
 - [Giaosucan](http://www.giaosucan.com/) - Do Trong Nguyen
 - [huydx note](http://huydx.com) - HuyDX
+- [Jusfunny - Better Developer](https://jusfunny.wordpress.com/) - Bui Viet Huong
 - [Ký sự BrSE](http://kysubrse.com/) - Tiger Nguyen
 - [Nam Luu Blog](http://namluu.com/) - Nam Luu
 - [The Full Snack Developer](https://thefullsnack.com/) - Huy Tran
