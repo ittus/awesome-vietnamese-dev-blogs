@@ -27,6 +27,7 @@
 - [Jusfunny - Better Developer](https://jusfunny.wordpress.com/) - Bui Viet Huong
 - [Ký sự BrSE](http://kysubrse.com/) - Tiger Nguyen
 - [Nam Luu Blog](http://namluu.com/) - Nam Luu
+- [Phil Notes](https://phuongnq.me/) - Nguyen Quang Phuong
 - [The Complex World](http://vhnam.github.io/) - Vo Hoai Nam
 - [The Full Snack Developer](https://thefullsnack.com/) - Huy Tran
 - [Tôi đi code dạo](https://toidicodedao.com/) - Nguyen Huy Hoang
