@@ -22,6 +22,7 @@
 - [Codeaholicguy](https://codeaholicguy.com/) - Nguyen Nhat Hoang
 - [Dong Nguyen](https://ndaidong.xyz/) - Dong Nguyen
 - [Giaosucan](http://www.giaosucan.com/) - Do Trong Nguyen
+- [GURUnH](https://gurunh.com/) - Hien Nguyen
 - [hqc.io](https://hqc.io/) - Cẩm Huỳnh
 - [huydx note](http://huydx.com) - HuyDX
 - [Jusfunny - Better Developer](https://jusfunny.wordpress.com/) - Bui Viet Huong
