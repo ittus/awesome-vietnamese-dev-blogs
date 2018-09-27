@@ -32,6 +32,7 @@
 - [The Complex World](http://vhnam.github.io/) - Vo Hoai Nam
 - [The Full Snack Developer](https://thefullsnack.com/) - Huy Tran
 - [Tôi đi code dạo](https://toidicodedao.com/) - Nguyen Huy Hoang
+- [Vanhuyz's notes](https://vanhuyz.com/) - Van Huy
 - [Vinacode](https://vinacode.net/) - Ho Sy Hung
 - [vnhacker](https://vnhacker.blogspot.jp/)
 
