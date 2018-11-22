@@ -25,6 +25,7 @@
 - [GURUnH](https://gurunh.com/) - Hien Nguyen
 - [hqc.io](https://hqc.io/) - Cẩm Huỳnh
 - [huydx note](http://huydx.com) - HuyDX
+- [iot2vn](https://iot2vn.com)
 - [Jusfunny - Better Developer](https://jusfunny.wordpress.com/) - Bui Viet Huong
 - [Ký sự BrSE](http://kysubrse.com/) - Tiger Nguyen
 - [Nam Luu Blog](http://namluu.com/) - Nam Luu
