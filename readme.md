@@ -27,6 +27,7 @@
 - [huydx note](http://huydx.com) - HuyDX
 - [iot2vn](https://iot2vn.com)
 - [Jusfunny - Better Developer](https://jusfunny.wordpress.com/) - Bui Viet Huong
+- [Blog Khanh Nguyen](http://khanhxnguyen.com/blog/) - Khanh Xuan Nguyen
 - [Ký sự BrSE](http://kysubrse.com/) - Tiger Nguyen
 - [Nam Luu Blog](http://namluu.com/) - Nam Luu
 - [Phil Notes](https://phuongnq.me/) - Nguyen Quang Phuong
