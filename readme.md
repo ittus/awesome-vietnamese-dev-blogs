@@ -21,6 +21,7 @@
 - [Blog Hoc Tap](http://bloghoctap.com/) - Vo Duy Tuan
 - [Codeaholicguy](https://codeaholicguy.com/) - Nguyen Nhat Hoang
 - [Dong Nguyen](https://ndaidong.xyz/) - Dong Nguyen
+- [Duyet Dev](https://blog.duyet.net/) - Le Van Duyet
 - [Giaosucan](http://www.giaosucan.com/) - Do Trong Nguyen
 - [GURUnH](https://gurunh.com/) - Hien Nguyen
 - [hqc.io](https://hqc.io/) - Cẩm Huỳnh
@@ -35,8 +36,8 @@
 - [Quần Cam](https://quan-cam.com/) - Cẩm Huỳnh
 - [The Complex World](http://vhnam.github.io/) - Vo Hoai Nam
 - [The Full Snack Developer](https://thefullsnack.com/) - Huy Tran
+- [The Dark knight Tech](https://thedarkknighttech.com/) - Vo Cao Son
 - [Tôi đi code dạo](https://toidicodedao.com/) - Nguyen Huy Hoang
-- [Duyet Dev](https://blog.duyet.net/) - Le Van Duyet
 - [Vanhuyz's notes](https://vanhuyz.com/) - Van Huy
 - [Vinacode](https://vinacode.net/) - Ho Sy Hung
 - [vnhacker](https://vnhacker.blogspot.jp/)
