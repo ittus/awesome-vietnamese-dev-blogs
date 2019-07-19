@@ -19,6 +19,7 @@
 
 - [1upnote](https://1upnote.me/) - Nam Doan
 - [Blog Hoc Tap](http://bloghoctap.com/) - Vo Duy Tuan
+- [bugjoker](https://bugjoker.com/)
 - [Codeaholicguy](https://codeaholicguy.com/) - Nguyen Nhat Hoang
 - [Dong Nguyen](https://ndaidong.xyz/) - Dong Nguyen
 - [Duyet Dev](https://blog.duyet.net/) - Le Van Duyet
