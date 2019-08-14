@@ -34,6 +34,7 @@
 - [Ký sự BrSE](http://kysubrse.com/) - Tiger Nguyen
 - [Nam Luu Blog](http://namluu.com/) - Nam Luu
 - [Những dòng code vui](https://nhungdongcodevui.com) - Vũ Công Tấn Tài
+- [Not Cuder](https://notcuder.com/) 
 - [Phil Notes](https://phuongnq.me/) - Nguyen Quang Phuong
 - [Quần Cam](https://quan-cam.com/) - Cẩm Huỳnh
 - [The Complex World](http://vhnam.github.io/) - Vo Hoai Nam
