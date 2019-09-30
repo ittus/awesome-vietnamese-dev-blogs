@@ -51,6 +51,7 @@
 - [Dạy nhau học](https://daynhauhoc.com/)
 - [Keep a log](https://kipalog.com/)
 - [Nghệ thuật coding](https://nghethuatcoding.com/)
+- [Techread](https://techread.dev)
 
 ## Contribute
 
